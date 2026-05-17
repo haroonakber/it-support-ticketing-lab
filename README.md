@@ -33,13 +33,13 @@ I named my organization IT Solutions The three main areas I explored are main Da
 
 ### Configuration goals
 
-In this step, I'm setting up ticket categories that match real IT support environment, configuring priority levels with esclation matrix, and adding custom attributes to capture device typr and location so that I can categorise tickets, set priority for each ticket, and have a record of types of devices and thier locations
+In this step, I'm setting up ticket categories that match real IT support environment, configuring priority levels with esclation matrix, and adding custom attributes to capture device type and location so that I can categorize tickets, set priority for each ticket, and have a record of types of devices and thier locations
 
 ![Image](https://learn.nextwork.org/satisfied_brown_brave_kraken/uploads/068d2bf3-a4b1-44b3-b307-6e3c1c77fd36_ed576ad3)
 
 ### Understanding the priority matrix
 
-Critical meanscomapny wide imapct High means department wide impact Medium means user based impact Low means minor to no impact
+Critical means company wide imapct High means department wide impact Medium means user based impact Low means minor to no impact
 
 ## Working the Full Ticket Lifecycle
 
@@ -89,13 +89,10 @@ In this project extension, I set the trigger to network category and the action 
 
 The key tools I used include helpdesk ticketing system Key concepts I learnt include troubleshooting and resolving user issues via a ticketing system
 
-### Time and challenges
-
-This project took me approximately 1 hour The most challenging part was creating realistic tickets based on common IT scenarios 
 
 ### Looking ahead
 
-I did this project today to learn how to use a ticketing system and IT support 
+I did this project today to learn how to use a ticketing system
 
 ---
 
