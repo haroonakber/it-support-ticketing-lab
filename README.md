@@ -94,4 +94,4 @@ I did this project today to learn how to use a ticketing system
 
 ---
 
-*Built with [NextWork](https://learn.nextwork.org) - [View this project](https://learn.nextwork.org/projects/068d2bf3-a4b1-44b3-b307-6e3c1c77fd36)*
+*[View this project](https://learn.nextwork.org/projects/068d2bf3-a4b1-44b3-b307-6e3c1c77fd36)*
